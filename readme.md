@@ -1,6 +1,6 @@
-﻿ECE652 Final Project Report: Fault Tolerant Routing algorithm of Network on Chip.
+Fault Tolerant Routing algorithm of Network on Chip.
 
-Haoyu Fu, Kean Shen, Kailiang Nan
+Haoyu Fu
 
 1  **Introduction**
 
